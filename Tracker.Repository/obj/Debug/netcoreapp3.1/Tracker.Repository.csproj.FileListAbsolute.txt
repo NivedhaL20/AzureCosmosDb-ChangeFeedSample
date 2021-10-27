@@ -1,0 +1,15 @@
+D:\Meetup\azconf2021\Cosmos change feed\Tracker.ChangeFeed\Tracker.Repository\bin\Debug\netcoreapp3.1\Microsoft.Azure.Documents.ServiceInterop.dll
+D:\Meetup\azconf2021\Cosmos change feed\Tracker.ChangeFeed\Tracker.Repository\bin\Debug\netcoreapp3.1\Cosmos.CRTCompat.dll
+D:\Meetup\azconf2021\Cosmos change feed\Tracker.ChangeFeed\Tracker.Repository\bin\Debug\netcoreapp3.1\Tracker.Repository.deps.json
+D:\Meetup\azconf2021\Cosmos change feed\Tracker.ChangeFeed\Tracker.Repository\bin\Debug\netcoreapp3.1\Tracker.Repository.dll
+D:\Meetup\azconf2021\Cosmos change feed\Tracker.ChangeFeed\Tracker.Repository\bin\Debug\netcoreapp3.1\Tracker.Repository.pdb
+D:\Meetup\azconf2021\Cosmos change feed\Tracker.ChangeFeed\Tracker.Repository\bin\Debug\netcoreapp3.1\Tracker.Models.dll
+D:\Meetup\azconf2021\Cosmos change feed\Tracker.ChangeFeed\Tracker.Repository\bin\Debug\netcoreapp3.1\Tracker.Models.pdb
+D:\Meetup\azconf2021\Cosmos change feed\Tracker.ChangeFeed\Tracker.Repository\obj\Debug\netcoreapp3.1\Tracker.Repository.csproj.AssemblyReference.cache
+D:\Meetup\azconf2021\Cosmos change feed\Tracker.ChangeFeed\Tracker.Repository\obj\Debug\netcoreapp3.1\Tracker.Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\Meetup\azconf2021\Cosmos change feed\Tracker.ChangeFeed\Tracker.Repository\obj\Debug\netcoreapp3.1\Tracker.Repository.AssemblyInfoInputs.cache
+D:\Meetup\azconf2021\Cosmos change feed\Tracker.ChangeFeed\Tracker.Repository\obj\Debug\netcoreapp3.1\Tracker.Repository.AssemblyInfo.cs
+D:\Meetup\azconf2021\Cosmos change feed\Tracker.ChangeFeed\Tracker.Repository\obj\Debug\netcoreapp3.1\Tracker.Repository.csproj.CoreCompileInputs.cache
+D:\Meetup\azconf2021\Cosmos change feed\Tracker.ChangeFeed\Tracker.Repository\obj\Debug\netcoreapp3.1\Tracker.Repository.dll
+D:\Meetup\azconf2021\Cosmos change feed\Tracker.ChangeFeed\Tracker.Repository\obj\Debug\netcoreapp3.1\Tracker.Repository.pdb
+D:\Meetup\azconf2021\Cosmos change feed\Tracker.ChangeFeed\Tracker.Repository\obj\Debug\netcoreapp3.1\Tracker.Repository.csproj.CopyComplete

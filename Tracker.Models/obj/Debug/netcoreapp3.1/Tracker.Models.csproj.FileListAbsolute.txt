@@ -1,0 +1,10 @@
+D:\Meetup\azconf2021\Cosmos change feed\Tracker.ChangeFeed\Tracker.Models\bin\Debug\netcoreapp3.1\Tracker.Models.deps.json
+D:\Meetup\azconf2021\Cosmos change feed\Tracker.ChangeFeed\Tracker.Models\bin\Debug\netcoreapp3.1\Tracker.Models.dll
+D:\Meetup\azconf2021\Cosmos change feed\Tracker.ChangeFeed\Tracker.Models\bin\Debug\netcoreapp3.1\Tracker.Models.pdb
+D:\Meetup\azconf2021\Cosmos change feed\Tracker.ChangeFeed\Tracker.Models\obj\Debug\netcoreapp3.1\Tracker.Models.GeneratedMSBuildEditorConfig.editorconfig
+D:\Meetup\azconf2021\Cosmos change feed\Tracker.ChangeFeed\Tracker.Models\obj\Debug\netcoreapp3.1\Tracker.Models.AssemblyInfoInputs.cache
+D:\Meetup\azconf2021\Cosmos change feed\Tracker.ChangeFeed\Tracker.Models\obj\Debug\netcoreapp3.1\Tracker.Models.AssemblyInfo.cs
+D:\Meetup\azconf2021\Cosmos change feed\Tracker.ChangeFeed\Tracker.Models\obj\Debug\netcoreapp3.1\Tracker.Models.csproj.CoreCompileInputs.cache
+D:\Meetup\azconf2021\Cosmos change feed\Tracker.ChangeFeed\Tracker.Models\obj\Debug\netcoreapp3.1\Tracker.Models.dll
+D:\Meetup\azconf2021\Cosmos change feed\Tracker.ChangeFeed\Tracker.Models\obj\Debug\netcoreapp3.1\Tracker.Models.pdb
+D:\Meetup\azconf2021\Cosmos change feed\Tracker.ChangeFeed\Tracker.Models\obj\Debug\netcoreapp3.1\Tracker.Models.csproj.AssemblyReference.cache
