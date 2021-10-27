@@ -1,0 +1,12 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/Tracker.Models/bin/Release/netcoreapp3.1
+/Tracker.Models/obj/Release/netcoreapp3.1
+/Tracker.Repository/bin/Release/netcoreapp3.1
+/Tracker.Repository/obj/Release/netcoreapp3.1
+/Tracker.Services/bin/Release/netcoreapp3.1
+/Tracker.Services/obj/Release/netcoreapp3.1
+/Tracker.API/bin/Release/netcoreapp3.1
+/Tracker.API/obj/Release/netcoreapp3.1
