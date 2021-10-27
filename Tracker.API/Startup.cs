@@ -25,7 +25,7 @@ namespace Tracker.API
 
             services.AddSwaggerGen(c =>
             {
-                c.SwaggerDoc("v1", new OpenApiInfo { Title = "Voter Details API", Version = "v1" });
+                c.SwaggerDoc("v1", new OpenApiInfo { Title = "Change feed", Version = "v1" });
                 c.AddSecurityDefinition("Bearer", new OpenApiSecurityScheme
                 {
                     In = ParameterLocation.Header,
@@ -99,7 +99,7 @@ namespace Tracker.API
             // specifying the Swagger JSON endpoint.
             app.UseSwaggerUI(c =>
             {
-                c.SwaggerEndpoint("/swagger/v1/swagger.json", "Voter Details Api V1");
+                c.SwaggerEndpoint("/swagger/v1/swagger.json", "Change feed");
             });
 
             app.UseHttpsRedirection();
